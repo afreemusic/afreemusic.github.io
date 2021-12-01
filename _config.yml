@@ -110,4 +110,4 @@ theme: edinburgh
 deploy:
   type: git
   repo: https://github.com/afreemusic/afreemusic.github.io
-  token: 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
+  token: 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
